@@ -24,6 +24,8 @@
   "homepage": "https://github.com/ghambale/root-styler#readme",
   "devDependencies": {
     "laravel-mix": "^6.0.18",
-    "postcss": "^8.1.14"
+    "postcss": "^8.1.14",
+    "sass": "^1.32.12",
+    "sass-loader": "^11.0.1"
   }
 }
