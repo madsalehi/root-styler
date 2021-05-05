@@ -9,7 +9,8 @@ if (file_exists($file)) {
 <html>
 
 <head>
-   <link rel="stylesheet" href="./root-styler/assets/app.css">
+   <link rel="stylesheet" href="./root-styler/assets/css/bootstrap.min.css">
+   <link rel="stylesheet" href="./root-styler/assets/css/app.css">
    <title>Localhost Root Folder</title>
 </head>
 
@@ -91,6 +92,7 @@ if (file_exists($file)) {
       </section>
    </div>
    <script src="./root-styler/assets/js/vue.js"></script>
+   <script src="./root-styler/assets/js/bootstrap.bundle.min.js"></script>
    <script src="./root-styler/assets/js/app.js"></script>
 </body>
 
