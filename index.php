@@ -14,7 +14,7 @@ if (file_exists($file)) {
 </head>
 
 <body>
-   <div class="container">
+   <div class="container" id="app">
       <?php
       if (RS::conf('showPageTitle')) { ?>
          <div class="page-title">
@@ -90,6 +90,8 @@ if (file_exists($file)) {
          </div>
       </section>
    </div>
+   <script src="./root-styler/assets/js/vue.js"></script>
+   <script src="./root-styler/assets/js/app.js"></script>
 </body>
 
 </html>
