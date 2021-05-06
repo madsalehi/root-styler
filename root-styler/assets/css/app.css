@@ -105,7 +105,7 @@ a {
   color: #8438ff;
 }
 #table-wrapper table tbody tr td {
-  padding: 10px;
+  padding: 10px 15px;
   font-size: 14px;
   font-weight: 500;
 }
